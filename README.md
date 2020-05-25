@@ -4,6 +4,9 @@ An ad hoc repo to extract osm.pbf file from planet.osm.pbf
 # The issue 'waku' is to address
 Geofabrik extracts does not always have the extracts for Carribian SIDS countries. We are going to create such extracts from planet.osm.pbf. 
 
+# Notice
+You need more than around 100GB to run this program.
+
 # See also
 - https://wiki.openstreetmap.org/wiki/Osmosis/Polygon_Filter_File_Format
 
